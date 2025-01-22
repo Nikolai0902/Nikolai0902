@@ -15,11 +15,9 @@ Databases:
 
 Testing:
 
-![JUnit](https://img.shields.io/badge/JUnit_4-yellowgreen?style=flat-square)
+![JUnit](https://img.shields.io/badge/JUnit_5-yellowgreen?style=flat-square)
 ![Mockito](https://img.shields.io/badge/Mockito-brightgreen?style=flat-square)
 ![JaCoCo](https://img.shields.io/badge/JaCoCo-c75a28?style=flat-square)
-![JMH](https://img.shields.io/badge/JMH-23343e?style=flat-square?style=flat-square)
-![HSQLDB](https://img.shields.io/badge/HSQLDB-03658c?style=flat-square)
 ![H2](https://img.shields.io/badge/H2-0007c7?style=flat-square) 
 
 Project management:
