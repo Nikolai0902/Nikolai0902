@@ -34,9 +34,9 @@ Style code:
 1. [Приложение "Кинотеатр". (Java 17, Spring Boot, PostgreSql 14, Maven 3.8)](https://github.com/Nikolai0902/job4j_cinema)
 2. [Приложение "TODO список". (Java 17, Spring Boot, PostgreSql 14, Maven 3.8)](https://github.com/Nikolai0902/job4j_todo)
 3. [Приложение "Сервис - UrlShortCut". (Java 17, Spring Boot, PostgreSql 14, Maven 3.8)](https://github.com/Nikolai0902/job4j_url_shortcut)
-4. [Приложение "Проект "Автонарушители"". (Java 17, Spring Boot, PostgreSql 14, Maven 3.8)](https://github.com/Nikolai0902/job4j_accidents)
-5. [Приложение "REST сервис AUTH". (Java 17, Spring Boot, PostgreSql 14, Maven 3.8)](https://github.com/Nikolai0902/job4j_auth)
-6. [Приложение "Работа мечты" представляет биржу вакансий. (Java 17, Spring Boot, PostgreSql 14, Maven 3.8)](https://github.com/Nikolai0902/job4j_dreamjob)
-7. [Приложение "Students Api Service" Rest Api-Kafka-SOAP service. (Java 17, Spring Boot, PostgreSql 14, Maven 3.8)](https://github.com/Nikolai0902/job4j_students)
+4. ["Проект "Автонарушители"". (Java 17, Spring Boot, PostgreSql 14, Maven 3.8)](https://github.com/Nikolai0902/job4j_accidents)
+5. ["REST сервис AUTH". (Java 17, Spring Boot, PostgreSql 14, Maven 3.8)](https://github.com/Nikolai0902/job4j_auth)
+6. ["Работа мечты" представляет биржу вакансий. (Java 17, Spring Boot, PostgreSql 14, Maven 3.8)](https://github.com/Nikolai0902/job4j_dreamjob)
+7. ["Students Api Service" Rest Api-Kafka-SOAP service. (Java 17, Spring Boot, PostgreSql 14, Maven 3.8)](https://github.com/Nikolai0902/job4j_students)
 8. ["Тестовое задание - проект "Pooh JMS"  аналог асинхронной очереди. (Java 11, Spring Boot, PostgreSql 14, Maven 3.8)](https://github.com/Nikolai0902/job4j_pooh)
 
